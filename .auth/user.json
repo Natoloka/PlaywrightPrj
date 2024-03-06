@@ -1,0 +1,14 @@
+{
+    "cookies": [],
+    "origins":[
+        {
+            "origin": "https://angular.realworld.io",
+            "localStorage": [
+                {
+                    "name": "jwtToken",
+                    "value": "dsklfhdslkf"
+                }
+            ]
+        }
+    ]
+}
